@@ -1,0 +1,11 @@
+#ifndef ASIANTOOLS_MOOPARSER_H
+#define ASIANTOOLS_MOOPARSER_H
+
+
+class MooParser
+{
+
+};
+
+
+#endif //ASIANTOOLS_MOOPARSER_H
